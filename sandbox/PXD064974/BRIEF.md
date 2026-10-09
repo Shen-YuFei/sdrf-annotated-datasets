@@ -35,7 +35,7 @@ The PRM-specific physical protocol reports LysargiNase, with DTT in lysis buffer
 
 The 55 newer DIA acquisitions have author sample mappings and explicit biological replicate labels, but their physical digestion protocol and search settings have not been established. The project-level LysargiNase/Skyline description is specifically about the older PRM experiment. It is not copied to the Astral rows. Spectronaut version, modifications, search tolerances and treatment doses/durations for the added experiments remain unavailable. The exact parent and clone of HEK-ALIX-KO also remain unresolved.
 
-Keep all three subsets in `sandbox/` pending those clarifications. The PRM subset can be checked independently; a passing structural check does not establish completeness of the accession. HeLa donor metadata come from [Cellosaurus CVCL_0030](https://www.cellosaurus.org/CVCL_0030), and describe the cell-line donor rather than the age of the cultures.
+Keep both DIA subsets in `sandbox/` pending those clarifications. The PRM subset can be checked independently; a passing structural check does not establish completeness of the accession. HeLa donor metadata come from [Cellosaurus CVCL_0030](https://www.cellosaurus.org/CVCL_0030), and describe the cell-line donor rather than the age of the cultures.
 
 ## Validation
 
